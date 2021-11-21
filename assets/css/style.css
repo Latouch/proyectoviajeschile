@@ -1,0 +1,42 @@
+body{
+    background-color: #000000;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-family: 'Oswald', sans-serif;
+}
+.logo-navbar{
+    height: 2rem;
+}
+
+#navbarNav *{
+    color: #000000;
+}
+
+hr {
+    margin: 1rem 0;
+    color: #0CC6E3;
+    opacity: 0.25;
+    height: 2px;
+}
+
+section .card img{
+    height: 10rem;
+}
+
+.inf-icon{
+    color: white;
+    font-size: 2rem;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+p{
+    color: white;
+}
+
+h2{
+    font-weight: 600;
+}
