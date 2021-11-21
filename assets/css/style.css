@@ -5,32 +5,12 @@ body{
     border: 0;
     font-family: 'Oswald', sans-serif;
 }
-html {   
-    scroll-behavior: smooth;
-} 
 .logo-navbar{
     height: 2rem;
 }
 
 #navbarNav *{
     color: #000000;
-}
-
-.inf-icon{
-    color: white;
-    font-size: 2rem;
-}
-
-.text-justify{
-    text-align: justify;
-}
-
-p{
-    color: white;
-}
-
-h2{
-    font-weight: 600;
 }
 
 hr {
@@ -42,4 +22,21 @@ hr {
 
 section .card img{
     height: 10rem;
+}
+
+p{
+    color: white;
+}
+
+h2{
+    font-weight: 600;
+}
+
+.inf-icon{
+    color: white;
+    font-size: 2rem;
+}
+
+.text-justify{
+    text-align: justify;
 }
