@@ -16,17 +16,6 @@ html {
     color: #000000;
 }
 
-hr {
-    margin: 1rem 0;
-    color: #0CC6E3;
-    opacity: 0.25;
-    height: 2px;
-}
-
-section .card img{
-    height: 10rem;
-}
-
 .inf-icon{
     color: white;
     font-size: 2rem;
@@ -42,4 +31,15 @@ p{
 
 h2{
     font-weight: 600;
+}
+
+hr {
+    margin: 1rem 0;
+    color: #0CC6E3;
+    opacity: 0.25;
+    height: 2px;
+}
+
+section .card img{
+    height: 10rem;
 }
