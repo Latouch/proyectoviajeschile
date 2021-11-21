@@ -5,6 +5,9 @@ body{
     border: 0;
     font-family: 'Oswald', sans-serif;
 }
+html {   
+    scroll-behavior: smooth;
+} 
 .logo-navbar{
     height: 2rem;
 }
